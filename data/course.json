@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Social Welfare"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "37d71521-7b29-4599-0d3a-daa738b0ac57",
+  "instructors": {
+    "content": [
+      "90ed1bca-4638-3198-4588-2a4923cfc575"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ec3e361c-89db-9333-1a37-956c22aaa7dd",
+    "website": "14-41-public-finance-and-public-policy-fall-2010"
+  },
+  "course_title": "Public Finance and Public Policy",
+  "course_description": "Explores the role of government in the economy, applying tools of basic microeconomics to answer important policy questions such as government response to global warming, school choice by K-12 students, Social Security versus private retirement savings accounts, government versus private health insurance, setting income tax rates for individuals and corporations.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.41",
+  "course_image_thumbnail": {
+    "content": "85eeea89-0937-0276-705e-a0c8e6b417c2",
+    "website": "14-41-public-finance-and-public-policy-fall-2010"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "abb88ca6-30c5-49eb-a278-733cd75d825f",
+  "site_short_id": "14.41-fall-2010",
+  "site_url_path": "courses/14-41-public-finance-and-public-policy-fall-2010",
+  "title": "Course Metadata"
+}
