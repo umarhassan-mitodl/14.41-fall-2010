@@ -21,7 +21,7 @@ Explores the role of government in the economy, applying tools of basic microeco
 
 ## Prerequisites
 
-{{% resource_link "ed5f8214-6ddc-4b4a-8607-398dffd06d2d" "_14.01 Principles of Microeconomics_" %}}
+[_14.01 Principles of Microeconomics_](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/)
 
 ## Requirements and Grading
 
